@@ -1,0 +1,5 @@
+name = "hex-basic"
+defaultTargets = ["HexBasic"]
+
+[[lean_lib]]
+name = "HexBasic"
