@@ -19,5 +19,3 @@ reproduced here only until they migrate up to lean4. It provides the shared
 `List.foldl` algebra (`HexBasic.Fold`), the `Batteries` list lemmas reproduced
 in `HexBasic.ListShim`, and the `Vector.modify` update helper.
 -/
-
--- PAT-access test marker (sync will revert this)
