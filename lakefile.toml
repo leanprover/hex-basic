@@ -1,5 +1,10 @@
 name = "hex-basic"
 defaultTargets = ["HexBasic"]
 
+leanOptions = [
+  { name = "doc.verso", value = true },
+  { name = "doc.verso.suggestions", value = false },
+]
+
 [[lean_lib]]
 name = "HexBasic"
